@@ -1,14 +1,14 @@
 {
   "name": "MCxnot",
   "bot-account": { 
-    "username": "MCximnot",
+    "username": "imnot mc",
     "password": "Subhan5054",
     "type": "offline"
   },
   "server": {
     "ip": "GravityxMC.aternos.me",
     "port": 25459,
-    "version": "1.21.1",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
